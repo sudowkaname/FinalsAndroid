@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733370538991",
+    "project_id": "e-commerce-bb196",
+    "storage_bucket": "e-commerce-bb196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733370538991:android:688062117f927af057f41a",
+        "android_client_info": {
+          "package_name": "com.android.shoppingzoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733370538991-f1shaak8s8eur02osk70rs5gjpufu1q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-5dvYAO9OYhGC3kHW_DIJ0rKiGgeXWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733370538991-f1shaak8s8eur02osk70rs5gjpufu1q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
